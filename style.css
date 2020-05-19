@@ -1,4 +1,8 @@
 
+font{
+ font-variant-caps: all-petite-caps;
+  font-size: 12px;
+}
 p {
   display: block;
   margin-top: 1em;
