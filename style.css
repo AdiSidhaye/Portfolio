@@ -116,7 +116,17 @@ border: 8px #fff double;
 text-align:center;*/
 
 }
-
+.nav a:link{
+  color: black;
+}
+.nav a:visited{
+  color: black;
+}
+.nav a:hover{
+  color:black;
+}
+.nav a:active{
+  color: black;
 
 
 
